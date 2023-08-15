@@ -1,0 +1,9 @@
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\bin\Debug\Word_Program_Csharp.exe.config
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\bin\Debug\Word_Program_Csharp.exe
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\bin\Debug\Word_Program_Csharp.pdb
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\obj\Debug\Word_Program_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\obj\Debug\Word_Program_Csharp.Properties.Resources.resources
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\obj\Debug\Word_Program_Csharp.csproj.GenerateResource.Cache
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\obj\Debug\Word_Program_Csharp.exe
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\obj\Debug\Word_Program_Csharp.pdb
+C:\Users\Asaad\Desktop\Word_Program_Csharp\Word_Program_Csharp\obj\Debug\Word_Program_Csharp.frmword.resources
